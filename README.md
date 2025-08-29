@@ -26,7 +26,7 @@
         <button id="showBtn" type="submit">보기</button>
       </div>
     </form>
-    <p class="hint"><code></code></p>
+    <p class="hint"></p>
     <p id="err" class="error" role="alert">암호가 올바르지 않습니다.</p>
 
     <div id="imgBox" class="imgBox" aria-live="polite">
