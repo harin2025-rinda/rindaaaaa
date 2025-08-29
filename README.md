@@ -30,6 +30,7 @@
     <p id="err" class="error" role="alert">암호가 올바르지 않습니다.</p>
 
     <div id="imgBox" class="imgBox" aria-live="polite">
+      <p style="font-size:16px; font-weight:bold; margin-bottom:10px;">🙏 기도제목</p>
       <img id="secretImg" alt="비밀 이미지" />
     </div>
     <p style="font-size:12px; color:#666; margin-top:20px;"> 젊은제자들 </p>
