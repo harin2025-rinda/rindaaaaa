@@ -22,12 +22,12 @@
     <h2>🔒 정답은?</h2>
     <form id="pwForm" autocomplete="off">
       <div class="row">
-        <input id="pw" type="text" inputmode="latin" placeholder="우리가 갔던 선교지 이름이 뭐더라아아아⛪" aria-label="암호" required />
+        <input id="pw" type="text" inputmode="latin" placeholder="선교지 이름이 뭐더라아아⛪" aria-label="암호" required />
         <button id="showBtn" type="submit">보기</button>
       </div>
     </form>
     <p class="hint"></p>
-    <p id="err" class="error" role="alert">😊땡땡땡 때~앵😊</p>
+    <p id="err" class="error" role="alert">😊땡!땡!땡! 때~앵~!😊</p>
 
     <div id="imgBox" class="imgBox" aria-live="polite">
       <img id="secretImg" alt="비밀 이미지" />
@@ -61,7 +61,7 @@
 <br>
 FROM. 하린이~~~~<br>
       </p>
-      <p style="font-size:16px; font-weight:bold; margin-bottom:10px;">🙏 젊은제자들팀 기도제목</p>
+      <p style="font-size:12px; font-weight:bold; margin-bottom:10px; text-align:left;">🙏 젊은제자들팀 기도제목</p>
       <p style="font-size:12px; font-weight:bold; margin-bottom:10px; text-align:left;">
       🌟장찬주🌟<br>
 1. 학교 개학이 벌써 다가오는데 두려워말고 주님과 함께 있다는 생각으로 학교 생활하기<br>
