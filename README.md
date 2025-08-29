@@ -27,7 +27,7 @@
       </div>
     </form>
     <p class="hint"></p>
-    <p id="err" class="error" role="alert">암호가 올바르지 않습니다.</p>
+    <p id="err" class="error" role="alert">😊떙땡떙 때~앵😊</p>
 
     <div id="imgBox" class="imgBox" aria-live="polite">
       <img id="secretImg" alt="비밀 이미지" />
