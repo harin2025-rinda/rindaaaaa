@@ -31,6 +31,16 @@
 
     <div id="imgBox" class="imgBox" aria-live="polite">
       <img id="secretImg" alt="비밀 이미지" />
+      <p style="font-size:16px; font-weight:bold; margin-bottom:10px; text-align:left;">To.젊은제자들<br>
+      젊제티이이임 >_<<br>
+      다들 일상 잘 이겨내고 있나요?<br>
+      나는 아직도 가금 선교때가 생각나요오<br>
+      당신들이 최고였다구 말해주고싶었어요<br>
+      이제 정말 마지막이지만 <br>
+      언제 어디서든 마주치면 너무 반갑고 즐거울거같아요<br>
+      어디에서 무엇을 하든 언제나 기도하고 있을게요<br>
+      우리 젊제 화이티이잉!!!<br>
+      </p>
       <p style="font-size:16px; font-weight:bold; margin-bottom:10px;">🙏 젊은제자들팀 기도제목</p>
       <p style="font-size:12px; font-weight:bold; margin-bottom:10px; text-align:left;">
       🌟장찬주🌟<br>
