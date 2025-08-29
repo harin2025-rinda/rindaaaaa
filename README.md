@@ -31,7 +31,8 @@
 
     <div id="imgBox" class="imgBox" aria-live="polite">
       <img id="secretImg" alt="비밀 이미지" />
-      <p style="font-size:12px; font-weight:bold; margin-bottom:10px; text-align:left;">To.젊은제자들<br>
+      <p style="font-size:12px; font-weight:bold; margin-bottom:10px; text-align:left;">
+      <br>
       TO. 사랑하는 우리 젊제팀 💛<br>
 젊제티이임 >_< <br>
 다들 요즘 일상 잘 보내고 있나요?<br>
