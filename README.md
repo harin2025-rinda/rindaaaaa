@@ -31,7 +31,7 @@
 
     <div id="imgBox" class="imgBox" aria-live="polite">
       <img id="secretImg" alt="비밀 이미지" />
-      <p style="font-size:16px; font-weight:bold; margin-bottom:10px;">🙏 기도제목</p>
+      <p style="font-size:16px; font-weight:bold; margin-bottom:10px;">🙏 젊은제자들팀 기도제목</p>
       <p style="font-size:12px; font-weight:bold; margin-bottom:10px; text-align:left;">
       🌟장찬주🌟<br>
 1. 학교 개학이 벌써 다가오는데 두려워말고 주님과 함께 있다는 생각으로 학교 생활하기<br>
