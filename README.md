@@ -22,7 +22,7 @@
     <h2>🔒 정답은?</h2>
     <form id="pwForm" autocomplete="off">
       <div class="row">
-        <input id="pw" type="text" inputmode="latin" placeholder="선교지 이름이 뭐더라아아⛪" aria-label="암호" required />
+        <input id="pw" type="text" inputmode="latin" placeholder="선교지 이름이 뭐더라아아" aria-label="암호" required />
         <button id="showBtn" type="submit">보기</button>
       </div>
     </form>
