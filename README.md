@@ -31,15 +31,33 @@
 
     <div id="imgBox" class="imgBox" aria-live="polite">
       <img id="secretImg" alt="비밀 이미지" />
-      <p style="font-size:16px; font-weight:bold; margin-bottom:10px; text-align:left;">To.젊은제자들<br>
-      젊제티이이임 >_<<br>
-      다들 일상 잘 이겨내고 있나요?<br>
-      나는 아직도 가금 선교때가 생각나요오<br>
-      당신들이 최고였다구 말해주고싶었어요<br>
-      이제 정말 마지막이지만 <br>
-      언제 어디서든 마주치면 너무 반갑고 즐거울거같아요<br>
-      어디에서 무엇을 하든 언제나 기도하고 있을게요<br>
-      우리 젊제 화이티이잉!!!<br>
+      <p style="font-size:12px; font-weight:bold; margin-bottom:10px; text-align:left;">To.젊은제자들<br>
+      TO. 사랑하는 우리 젊제팀 💛<br>
+젊제티이임 >_< <br>
+다들 요즘 일상 잘 보내고 있나요?<br>
+<br>
+저는 아직도 선교지에서 함께했던 순간들이 문득문득 생각나요.<br>
+열심히 뛰고, 서로 챙겨주고 웃었던 모습들이<br>
+아직도 마음에 많이 남아있어요.<br>
+<br>
+젊제팀 모두 한명 한명 최고였어요. <br>
+이말 꼭 해주고싶어요!!<br>
+이제 선교는 끝났지만, 어디서든 마주치면<br>
+진짜 너무 반갑고 즐거울 것 같아요ㅎㅎ<br>
+<br>
+기도제목들을 보니깐 다들 각자의 자리에서 바쁘게 보내고있는거 같은데,<br>
+어디에서 무엇을 하든 항상 기도하고, 늘 응원하고 있을게요!<br>
+<br>
+무엇보다도, 주님 안에서 늘 사랑 많이 받고<br>
+주님이 주시는 평안과 기쁨이 가득하길 축복해요!!!<br>
+<br>
+여러분이 있는 자리마다 주님의 은혜가 넘치길,<br>
+그 은혜로 또 누군가를 세우고 흘려보내는<br>
+귀한 삶을 살아가길 기도할게요 💛<br>
+<br>
+우리 젊제, 앞으로도 계속 화이팅!! ✨<br>
+<br>
+FROM. 하린이~~~~<br>
       </p>
       <p style="font-size:16px; font-weight:bold; margin-bottom:10px;">🙏 젊은제자들팀 기도제목</p>
       <p style="font-size:12px; font-weight:bold; margin-bottom:10px; text-align:left;">
