@@ -19,7 +19,7 @@
 </head>
 <body>
   <div class="container">
-    <h2>🔓 암호입력</h2>
+    <h2>🔒 암호입력</h2>
     <form id="pwForm" autocomplete="off">
       <div class="row">
         <input id="pw" type="text" inputmode="latin" placeholder="풀어보세유" aria-label="암호" required />
