@@ -34,6 +34,7 @@
       <p style="font-size:12px; font-weight:bold; margin-bottom:10px; text-align:left;">
       <br>
       TO. 사랑하는 우리 젊제팀 💛<br>
+      <br>
 젊제티이임 >_< <br>
 다들 요즘 일상 잘 보내고 있나요?<br>
 <br>
