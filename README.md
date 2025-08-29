@@ -47,7 +47,7 @@
 이제 선교는 끝났지만, 어디서든 마주치면<br>
 진짜 너무 반갑고 즐거울 것 같아요ㅎㅎ<br>
 <br>
-기도 제목들을 보니깐 다들 각자의 자리에서 바쁘게 보내고 있는 거 같은데,<br>
+기도 제목들을 보니깐 <br>다들 각자의 자리에서 바쁘게 보내고 있는 거 같은데,<br>
 어디에서 무엇을 하든 항상 기도하고, 늘 응원하고 있을게요!<br>
 <br>
 무엇보다도, 주님 안에서 늘 사랑 많이 받고<br>
@@ -59,7 +59,7 @@
 <br>
 우리 젊제, 앞으로도 계속 화이팅!! ✨<br>
 <br>
-FROM. 하린이~~~~<br>
+FROM. 하린이~~~~<br><br><br>
       </p>
       <p style="font-size:12px; font-weight:bold; margin-bottom:10px; text-align:left;">🙏 젊은제자들팀 기도제목</p>
       <p style="font-size:12px; font-weight:bold; margin-bottom:10px; text-align:left;">
