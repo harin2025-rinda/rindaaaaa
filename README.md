@@ -147,7 +147,7 @@ FROM. 하린이~~~~<br>
 
   <script>
     const PASSWORD = "youngnam2025"; // 암호 (보이는 텍스트 입력)
-    const IMAGE_URL = "https://i.imgur.com/bh4AeHv.jpeg"; // Imgur 링크
+    const IMAGE_URL = "https://i.imgur.com/8gl1uNG.jpeg"; // Imgur 링크
 
     const form = document.getElementById("pwForm");
     const pwInput = document.getElementById("pw");
