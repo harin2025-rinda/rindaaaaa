@@ -22,12 +22,12 @@
     <h2>🔒 정답은?</h2>
     <form id="pwForm" autocomplete="off">
       <div class="row">
-        <input id="pw" type="text" inputmode="latin" placeholder="풀어보세유" aria-label="암호" required />
+        <input id="pw" type="text" inputmode="latin" placeholder="우리가 갔던 선교지 이름이 뭐더라아아아⛪" aria-label="암호" required />
         <button id="showBtn" type="submit">보기</button>
       </div>
     </form>
     <p class="hint"></p>
-    <p id="err" class="error" role="alert">😊떙땡떙 때~앵😊</p>
+    <p id="err" class="error" role="alert">😊땡땡땡 때~앵😊</p>
 
     <div id="imgBox" class="imgBox" aria-live="polite">
       <img id="secretImg" alt="비밀 이미지" />
